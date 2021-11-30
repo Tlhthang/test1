@@ -15,3 +15,4 @@ nguoi = Vietnamese('Ho Chi Minh')
 nguoi.showinfo()
 #not work 'caused protected:
 #print("Iq: ", self._intelligence)
+# test all the branch !!!
